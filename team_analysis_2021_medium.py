@@ -4,8 +4,8 @@ import urllib.request
 
 ################################ Data mining from the FPL API ################################
 # The only 2 parameters to specify are "teamID" and "lastGameweek"
-teamID = 3637734
-lastGameweek = 10
+teamID = 567761
+lastGameweek = 21
 
 # Get the detailed info about a given FPL Manager’s Team and a given game week
 gameweekData = {}
